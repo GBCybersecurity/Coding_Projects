@@ -1,3 +1,7 @@
+# Name: Brian Ibarra
+# Date: 10/4/2023
+# Description: Generates a random password (up to 50 characters in length)
+# from a list of letters (uppercase and lowercase), numbers, and special characters
 from random import randint
 
 characters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
